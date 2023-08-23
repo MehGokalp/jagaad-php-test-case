@@ -40,3 +40,11 @@ XDebug environment variables are already configured on `docker-compose.yml:7`
 
 ## Composer
 If you need composer, you can find it inside `bin` folder.
+
+## Preinstalled packages
+
+See `composer.json` for preinstalled packages that you may want to use it.
+
+## Project requirements and test case
+
+See [PROJECT.md](project.md)
