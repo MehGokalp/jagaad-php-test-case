@@ -47,4 +47,4 @@ See `composer.json` for preinstalled packages that you may want to use it.
 
 ## Project requirements and test case
 
-See [PROJECT.md](project.md)
+See [PROJECT.md](PROJECT.md)
