@@ -10,12 +10,23 @@ We need a command for searching users that have specific tags inside the created
 
 ### Endpoints
 
-First api that needs to be hit: https://run.mocky.io/v3/03d2a7bd-f12f-4275-9e9a-84e41f9c2aae
+First api that needs to be hit
+https://run.mocky.io/v3/03d2a7bd-f12f-4275-9e9a-84e41f9c2aae
+
+Method: GET
+
+Query string: ?verbose=1
 
 (Yes, we know it gives 500 error, please handle the situation)
 
-Second api: https://run.mocky.io/v3/aab281fe-3dbb-4d91-a863-a96e6bf083d7
 
+Second api
+
+Method: GET
+
+Query String: ?expose=1
+
+https://run.mocky.io/v3/aab281fe-3dbb-4d91-a863-a96e6bf083d7
 
 **Very Important Note**: These api urls look similar but, please consider these two endpoints as two different providers.
 
