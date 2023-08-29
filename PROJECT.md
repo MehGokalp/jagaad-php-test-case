@@ -14,7 +14,7 @@ First api that needs to be hit: https://run.mocky.io/v3/03d2a7bd-f12f-4275-9e9a-
 
 (Yes, we know it gives 500 error, please handle the situation)
 
-Second api: https://run.mocky.io/v3/87931203-8086-43ef-ba16-4c8903d8fa88
+Second api: https://run.mocky.io/v3/aab281fe-3dbb-4d91-a863-a96e6bf083d7
 
 
 **Very Important Note**: These api urls look similar but, please consider these two endpoints as two different providers.
