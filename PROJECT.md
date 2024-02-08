@@ -31,5 +31,5 @@ Query String: ?expose=1
 **Very Important Note**: These api urls look similar but, please consider these two endpoints as two different providers.
 
 ### Requirements;
-- Using latest version of golang is important
+- Using latest version of php is important
 - Having tests is important
